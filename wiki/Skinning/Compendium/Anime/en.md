@@ -7,11 +7,6 @@
 
 Compendium of all completed anime osu! skins.
 
-- ![][o!s] - means the skin contains osu!standard elements.
-- ![][o!c] - means the skin contains osu!catch elements.
-- ![][o!t] - means the skin contains osu!taiko elements.
-- ![][o!m] - means the skin contains osu!mania elements.
-
 ## A
 
 | Modes |  |
