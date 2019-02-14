@@ -7,10 +7,10 @@
 
 Compendium of all completed osu! skins that are based on Vocaloid characters.
 
-- ![][o!s]  - means the skin contains osu!standard elements.
-- ![][o!c]  - means the skin contains osu!catch elements.
-- ![][o!t]  - means the skin contains osu!taiko elements.
-- ![][o!m]  - means the skin contains osu!mania elements.
+- ![][o!s] - means the skin contains osu!standard elements.
+- ![][o!c] - means the skin contains osu!catch elements.
+- ![][o!t] - means the skin contains osu!taiko elements.
+- ![][o!m] - means the skin contains osu!mania elements.
 
 ## C
 
