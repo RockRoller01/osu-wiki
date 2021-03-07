@@ -43,7 +43,7 @@ The Skinning Contest is run by various community members.
 
 ## Links
 
-- [Newspost](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)
+- [Announcement newspost](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1266342)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1266324)
 - [Discord server](https://discord.skinship.xyz/)
@@ -64,7 +64,7 @@ The Skinning Contest is run by various community members.
   - Mod Icons
   - Pause and Fail screen
   - Main Menu is optional, but highly encouraged
-4. Submissions must be new creations.
+4. Submissions must be new creations, only skins posted within the submission period will be accepted.
 5. Each submission must be accompanied by a forum thread in order to participate in the contest.
 6. Submissions must be made in time. Latecomers will not be accepted.
 
